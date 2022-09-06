@@ -6,20 +6,20 @@
 ### Hi there 👋
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on sensetime shenzhen corporation.
-- 🌱 I’m currently learning cv、c++、algorithm.
-- 🤔 I’m looking for help with risc-v.
-- 📫 How to reach me: zhg5200211@outlook.com...
+- 🔭 I’m currently working on sensetime shenzhen corporation
+- 🌱 I’m currently learning cv、c++、algorithm
+- 🤔 I’m looking for help with risc-v
+- 📫 How to reach me: zhg5200211@outlook.com
 
 ### Skills 🛠️
-- **Languages**: &nbsp;&nbsp;                C++, Python, Shell, Lua.
-- **CV/ML/DL**: &nbsp;&nbsp;&nbsp;           PyTorch, OpenCV, Detection, Quantization.
-- **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    Linux, Git, Docker, CI/CD, VSCode.
+- **Languages**: &nbsp;&nbsp;                C++, Python, Shell, Lua
+- **CV/ML/DL**: &nbsp;&nbsp;&nbsp;           PyTorch, OpenCV, Detection, Quantization
+- **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    Linux, Git, Docker, CI/CD, VSCode
 
 <!-- GitHub Readme Stats -->
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
+  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
+  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
 </div>
 
 <!-- GitHub Profile Trophy & GitHub Streak Stats -->
