@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)
 ![](https://img.shields.io/github/followers/HarleysZhang?style=social)![](https://img.shields.io/github/stars/HarleysZhang?style=social)
-[![website](data/icons/Website-armcvai-brightgreen.svg)](http://www.armcvai.com/)[![zhihu](data/icons/Home-on-Zhihu.svg)](https://www.zhihu.com/people/tang-fen-44-49)
+[![website](icons/Website-armcvai-brightgreen.svg)](http://www.armcvai.com/)
+[![zhihu](icons/Home-on-Zhihu.svg)](https://www.zhihu.com/people/tang-fen-44-49)
 
 ### Hi there 👋
 
@@ -17,8 +18,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Stats -->
 <div align="center">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
 </div>
 
 <!-- GitHub Profile Trophy & GitHub Streak Stats -->
