@@ -1,11 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)![](https://img.shields.io/github/followers/HarleysZhang?style=social)![](https://img.shields.io/github/stars/HarleysZhang?style=social)
+[![website](icons/Website-armcvai-brightgreen.svg)](http://www.armcvai.com/)[![zhihu](icons/Home-on-Zhihu.svg)](https://www.zhihu.com/people/tang-fen-44-49)
 
 ### Hi there 👋
 
 **HarleysZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on sensetime corporation.
+- 🔭 I’m currently working on sensetime shenzhen corporation.
 - 🌱 I’m currently learning cv、c++、algorithm.
 - 🤔 I’m looking for help with risc-v.
 - 📫 How to reach me: zhg5200211@outlook.com...
@@ -14,8 +15,6 @@ Here are some ideas to get you started:
 - **Languages**: &nbsp;&nbsp;                C++, Python, Shell, Lua.
 - **CV/ML/DL**: &nbsp;&nbsp;&nbsp;           PyTorch, OpenCV, Detection, Quantization.
 - **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    Linux, Git, Docker, CI/CD, VSCode.
-
-![](https://komarev.com/ghpvc/?username=HarleysZhang&color=36b812)<br>![](https://img.shields.io/github/followers/HarleysZhang?style=social)<br>![](https://img.shields.io/github/stars/HarleysZhang?style=social)<br>
 
 <!-- GitHub Readme Stats -->
 <div align="center">
