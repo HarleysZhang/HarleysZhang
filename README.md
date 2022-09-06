@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Stats -->
 <div align="center">
-  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
+  <img height="185px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&row=2&column=3&no-frame=true" />
   <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
 </div>
 
