@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-<!--
 **HarleysZhang/HarleysZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)
+&emsp;&emsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on sensetime corporation
+Here are some ideas to get you started:
+- 🔭 I’m currently working on sensetime corporation.
 - 🌱 I’m currently learning cv、c++、algorithm.
 - 🤔 I’m looking for help with risc-v.
 - 📫 How to reach me: zhg5200211@outlook.com...
--->
 
 <!-- GitHub Readme Stats -->
 <div align="center">
