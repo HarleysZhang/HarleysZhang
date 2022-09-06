@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)![](https://img.shields.io/github/followers/HarleysZhang?style=social)![](https://img.shields.io/github/stars/HarleysZhang?style=social)
-[![website](icons/Website-armcvai-brightgreen.svg)](http://www.armcvai.com/)[![zhihu](icons/Home-on-Zhihu.svg)](https://www.zhihu.com/people/tang-fen-44-49)
+![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)
+![](https://img.shields.io/github/followers/HarleysZhang?style=social)![](https://img.shields.io/github/stars/HarleysZhang?style=social)
+![website](http://www.armcvai.com/)
+![zhihu](https://www.zhihu.com/people/tang-fen-44-49)
 
 ### Hi there 👋
-
-**HarleysZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on sensetime shenzhen corporation.
