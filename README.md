@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub Profile Trophy & GitHub Streak Stats -->
 <div align="center">
- <img height="208px" src="https://github-profile-trophy.vercel.app/?username=HarleysZhang&theme=algolia&row=2&column=3&no-frame=true" />
- <img height="208px" src="https://github-readme-streak-stats.herokuapp.com/?user=HarleysZhang&theme=algolia" />
+ <img height="205px" src="https://github-profile-trophy.vercel.app/?username=HarleysZhang&theme=algolia&row=2&column=3&no-frame=true" />
+ <img height="205px" src="https://github-readme-streak-stats.herokuapp.com/?user=HarleysZhang&theme=algolia" />
 </div>
 
 <!-- GitHub Activity Graph -->
