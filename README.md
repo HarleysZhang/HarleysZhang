@@ -27,11 +27,3 @@ Here are some ideas to get you started:
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img height="290px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=buefy" /></div>
-
-### Top Repositories
-
-<a href="https://github.com/HarleysZhang/2021_algorithm_intern_information">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=2021_algorithm_intern_information&theme=buefy" />
-</a>
-<a href="https://github.com/HarleysZhang/kaggle_humpback_whale_identification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=kaggle_humpback_whale_identification&theme=buefy" /></a>
