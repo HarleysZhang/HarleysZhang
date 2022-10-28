@@ -1,8 +1,10 @@
-![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)
-![](https://img.shields.io/github/followers/HarleysZhang?style=social)![](https://img.shields.io/github/stars/HarleysZhang?style=social)
-<a href="https://blog.csdn.net/qq_20986663"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="嵌入式视觉"></a>
-[![website](icons/Website-armcvai-brightgreen.svg)](http://www.armcvai.com/)
-[![zhihu](icons/Home-on-Zhihu.svg)](https://www.zhihu.com/people/tang-fen-44-49)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)
+  ![](https://img.shields.io/github/followers/HarleysZhang?style=social)![](https://img.shields.io/github/stars/HarleysZhang?style=social)
+  <a href="https://blog.csdn.net/qq_20986663"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="嵌入式视觉"></a>
+  [![website](icons/Website-armcvai-brightgreen.svg)](http://www.armcvai.com/)
+  [![zhihu](icons/Home-on-Zhihu.svg)](https://www.zhihu.com/people/tang-fen-44-49)
+</p>
 
 ### Hi there 👋
 
@@ -26,13 +28,9 @@ Here are some ideas to get you started:
 
 ### Top Repositories
 
-
 <a href="https://github.com/HarleysZhang/2021_algorithm_intern_information">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/HarleysZhang/detect_steel_number">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=HarleysZhang.github.io&theme=buefy" />
 </a>
-
-<br />
-<br />
