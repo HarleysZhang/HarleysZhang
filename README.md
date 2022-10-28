@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 ### Top Repositories
 
 <a href="https://github.com/HarleysZhang/2021_algorithm_intern_information">
-  <img align="center" src="https://github.com/HarleysZhang/2021_algorithm_intern_information&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&theme=buefy" />
 </a>
 <a href="https://github.com/HarleysZhang/detect_steel_number">
-  <img align="center" src="https://github.com/HarleysZhang/detect_steel_number&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&theme=buefy" />
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=github-readme-stats)](https://github.com/HarleysZhang/2021_algorithm_intern_information)
@@ -46,5 +46,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/HarleysZhang/detect_steel_number">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=HarleysZhang.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&theme=buefy" />
 </a>
