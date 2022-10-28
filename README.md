@@ -33,18 +33,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/HarleysZhang/2021_algorithm_intern_information">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=2021_algorithm_intern_information&theme=buefy" />
 </a>
-<a href="https://github.com/HarleysZhang/detect_steel_number">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&theme=buefy" />
-</a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=github-readme-stats)](https://github.com/HarleysZhang/2021_algorithm_intern_information)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=github-readme-stats)](https://github.com/HarleysZhang/detect_steel_number)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/HarleysZhang/2021_algorithm_intern_information">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/HarleysZhang/detect_steel_number">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&theme=buefy" />
+<a href="https://github.com/HarleysZhang/kaggle_humpback_whale_identification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=kaggle_humpback_whale_identification&theme=buefy" />
 </a>
