@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)
 ![](https://img.shields.io/github/followers/HarleysZhang?style=social)![](https://img.shields.io/github/stars/HarleysZhang?style=social)
+<a href="https://blog.csdn.net/qq_20986663"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="嵌入式视觉"></a>
 [![website](icons/Website-armcvai-brightgreen.svg)](http://www.armcvai.com/)
 [![zhihu](icons/Home-on-Zhihu.svg)](https://www.zhihu.com/people/tang-fen-44-49)
 
