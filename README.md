@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </div>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img height="285px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
+<div align="center"><img height="290px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
