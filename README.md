@@ -1,7 +1,6 @@
 <p align="center">
     <a href="https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS" alt="PROFILE+VIEWS"></a>
   <a href="https://img.shields.io/github/followers/HarleysZhang?style=social"><img src="https://img.shields.io/github/followers/HarleysZhang?style=social" alt="FOLLOWERS"></a>    
-  <a href="https://img.shields.io/github/stars/HarleysZhang?style=social"><img src="https://img.shields.io/github/stars/HarleysZhang?style=social" alt="STARS"></a>
   <a href="http://www.armcvai.com/"><img src="./icons/Website-armcvai-brightgreen.svg", alt="嵌入式视觉"></a>
   <a href="https://www.zhihu.com/people/tang-fen-44-49"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="进击的程序猿"></a>
   <a href="https://blog.csdn.net/qq_20986663"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="嵌入式视觉"></a>
