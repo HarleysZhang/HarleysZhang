@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img height="290px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=buefy" /></div>
+<a <img align="center" height="290px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=buefy" /></a>
