@@ -1,9 +1,11 @@
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS)
-  ![](https://img.shields.io/github/followers/HarleysZhang?style=social)![](https://img.shields.io/github/stars/HarleysZhang?style=social)
+  <a href="https://img.shields.io/github/stars/HarleysZhang?style=social"><img src="https://img.shields.io/github/stars/HarleysZhang?style=social" alt="STARS"></a>
+  <a href="https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS"><img src="https://komarev.com/ghpvc/?username=HarleysZhang&label=PROFILE+VIEWS" alt="PROFILE+VIEWS"></a>
+  <a href="https://img.shields.io/github/followers/HarleysZhang?style=social"><img src="https://img.shields.io/github/followers/HarleysZhang?style=social" alt="FOLLOWERS"></a>    
+  <a href="http://www.armcvai.com/"><img src="./icons/Website-armcvai-brightgreen.svg", alt="嵌入式视觉"></a>
+  <a href="https://www.zhihu.com/people/tang-fen-44-49"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="进击的程序猿"></a>
   <a href="https://blog.csdn.net/qq_20986663"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="嵌入式视觉"></a>
-  [![website](icons/Website-armcvai-brightgreen.svg)](http://www.armcvai.com/)
-  [![zhihu](icons/Home-on-Zhihu.svg)](https://www.zhihu.com/people/tang-fen-44-49)
+  <a href="https://www.cnblogs.com/armcvai/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="嵌入式视觉"></a>
 </p>
 
 ### Hi there 👋
