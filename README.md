@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Stats -->
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=buefy&show_icons=trueline_height=21" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=buefy&layout=compact" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=buefy" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=buefy" />
 </div>
 
 <!-- GitHub Activity Graph -->
