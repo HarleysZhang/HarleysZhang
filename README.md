@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Stats -->
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
 </div>
 
 <!-- GitHub Profile Trophy & GitHub Streak Stats -->
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 </div>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img height="295px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
+<div align="center"><img height="280px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
