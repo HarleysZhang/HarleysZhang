@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are few quick facts that you want get:
 - 🔭 I’m currently working on sensetime shenzhen corporation
 - 🌱 I’m currently learning cv、c++、algorithm
 - 🤔 I’m looking for help with risc-v
