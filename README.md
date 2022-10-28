@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <!-- GitHub Readme Stats -->
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&theme=algolia&show_icons=trueline_height=21" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=algolia&layout=compact" />
 </div>
 
 <!-- GitHub Profile Trophy & GitHub Streak Stats -->
