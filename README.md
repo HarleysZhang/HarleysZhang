@@ -28,4 +28,4 @@ Here are few quick facts:
 <!-- waka-box end -->
  
 <!-- GitHub Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarleysZhang)](https://github.com/HarleysZhang/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarleysZhang&theme=vue)](https://github.com/HarleysZhang/github-readme-activity-graph)
