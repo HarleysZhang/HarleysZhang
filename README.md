@@ -24,5 +24,8 @@ Here are few quick facts:
 | <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<!-- waka-box start -->
+<!-- waka-box end -->
+ 
 <!-- GitHub Activity Graph -->
 <div align="center"><img height="290px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=dracula" /></div>
