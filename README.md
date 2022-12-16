@@ -28,4 +28,4 @@ Here are few quick facts:
 <!-- waka-box end -->
  
 <!-- GitHub Activity Graph -->
-<div align="center"><img height="290px" src="https://activity-graph.herokuapp.com/graph?username=HarleysZhang&theme=dracula" /></div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarleysZhang)](https://github.com/HarleysZhang/github-readme-activity-graph)
