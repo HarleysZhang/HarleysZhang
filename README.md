@@ -21,14 +21,8 @@ Here are few quick facts:
 - **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    Linux, Git, Docker, CI/CD, VSCode
 
 
-| <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zhang's github stats" /></a> | <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhanghonggao)](https://github.com/zhanghonggao/github-readme-stats)
-
-| <a href=https://github.com/zhanghonggao/github-readme-stats"<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhanghonggao" alt="Zhang's wakatime statics" /></a> | <a href="https://github.com/HarleysZhang/github-readme-activity-graph"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=HarleysZhang&theme=vue" alt="Zhang's github activity graph" /></a> |
-| ------------- | ------------- |
-
+| <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HarleysZhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zhang's github stats" /></a> | <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=buefy&hide_border=true" /></a> |<a href=https://github.com/zhanghonggao/github-readme-stats"<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhanghonggao" alt="Zhang's wakatime statics" /></a> |
+| ------------- | ------------- |------------- |
  
 <!-- GitHub Activity Graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarleysZhang&theme=vue)](https://github.com/HarleysZhang/github-readme-activity-graph)
