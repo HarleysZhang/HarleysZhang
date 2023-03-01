@@ -25,7 +25,7 @@ Here are few quick facts:
 | <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarleysZhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zhang's github stats" /></a> | <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarleysZhang&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+<td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarleysZhang&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
 
 <!-- GitHub Activity Graph -->
 [![Zhang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarleysZhang&theme=vue)](https://github.com/HarleysZhang/github-readme-activity-graph)
