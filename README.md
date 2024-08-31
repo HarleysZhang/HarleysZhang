@@ -26,7 +26,7 @@ Here are few quick facts:
 | ------------- | ------------- |
 
 <!-- GitHub Activity Graph -->
-[![Zhang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarleysZhang&theme=vue)](https://github.com/HarleysZhang/github-readme-activity-graph)
+[![Zhang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarleysZhang&theme=dracula)](https://github.com/HarleysZhang/github-readme-activity-graph)
 
 <!-- waka-box start -->
 <!-- waka-box end -->
