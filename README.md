@@ -21,10 +21,6 @@ Here are few quick facts:
 - **CV/ML/DL**: &nbsp;&nbsp;&nbsp;           Cuda, PyTorch, OpenCV, CNN/Transformer, Quantization
 - **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    Linux, Git, Docker, CI/CD, VSCode, Markdown/Latex
 
-
-| <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HarleysZhang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Zhang's github stats" /></a> | <a href="https://github.com/HarleysZhang/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarleysZhang&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 <!-- GitHub Activity Graph -->
 [![Zhang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarleysZhang&theme=dracula)](https://github.com/HarleysZhang/github-readme-activity-graph)
 
