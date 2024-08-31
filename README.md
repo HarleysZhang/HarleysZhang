@@ -17,8 +17,8 @@ Here are few quick facts:
 - 📫 How to reach me: zhg5200211@outlook.com
 
 ### Skills 🛠️
-- **Languages**: &nbsp;&nbsp;                C++, Python, Shell, Lua
-- **CV/ML/DL**: &nbsp;&nbsp;&nbsp;           PyTorch, OpenCV, Detection, Quantization
+- **Languages**: &nbsp;&nbsp;                C/C++, Python, Shell, Lua
+- **CV/ML/DL**: &nbsp;&nbsp;&nbsp;           Cuda, PyTorch, OpenCV, CNN/Transformer, Quantization
 - **Develops**:  &nbsp;&nbsp;&nbsp;&nbsp;    Linux, Git, Docker, CI/CD, VSCode, Markdown/Latex
 
 
@@ -26,7 +26,7 @@ Here are few quick facts:
 | ------------- | ------------- |
 
 <!-- GitHub Activity Graph -->
-[![Zhang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarleysZhang&theme=dracula)](https://github.com/HarleysZhang/github-readme-activity-graph)
+[![Zhang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HarleysZhang&theme=dracula)
 
 <!-- waka-box start -->
 <!-- waka-box end -->
